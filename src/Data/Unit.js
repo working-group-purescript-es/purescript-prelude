@@ -1,3 +1,3 @@
 "use strict";
 
-export var unit = undefined;
+export const unit = undefined;

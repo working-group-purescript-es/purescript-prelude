@@ -2,7 +2,7 @@
 
 // module Data.Symbol
 
-export var unsafeCoerce = function (arg) {
+export const unsafeCoerce = function (arg) {
   return arg;
 };
 
